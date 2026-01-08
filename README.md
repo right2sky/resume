@@ -2,9 +2,9 @@
 
 ## リンク
 
-[GitHub](https://github.com/karashinasou)
+[GitHub](https://github.com/right2sky)
 
-[Qiita](https://qiita.com/karashinasou)
+[Qiita](https://qiita.com/right2sky)
 
 ## 希望業務
 
